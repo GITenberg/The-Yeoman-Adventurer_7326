@@ -1,0 +1,25 @@
+_repo: The-Yeoman-Adventurer_7326
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gough, George W.
+    gutenberg_agent_id: '2423'
+    url: http://www.gutenberg.org/2009/agents/2423
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7326'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Farmers -- Fiction'
+- !lcsh 'Staffordshire (England) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Jacobite Rebellion, 1745-1746 -- Fiction'
+- GITenberg
+title: The Yeoman Adventurer
+url: http://www.gutenberg.org/ebooks/7326
